@@ -1,0 +1,19 @@
+{
+  "name": "shelter_server",
+  "version": "1.0.0",
+  "description": "main backend for Shelter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheMaxKim/Shelter.git"
+  },
+  "author": "Linze Zhao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheMaxKim/Shelter/issues"
+  },
+  "homepage": "https://github.com/TheMaxKim/Shelter"
+}
